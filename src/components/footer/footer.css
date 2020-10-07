@@ -1,0 +1,25 @@
+
+.footer {
+    background-color: #6B1E23;
+    color: white;
+    align-items: center;
+    text-align: center;
+}
+
+.footer-info {
+    padding: 30px;
+}
+
+.social-icons {
+    text-decoration: none;
+    color: #ffffff;
+    border: 1px solid #ffffff;
+    padding: 6px;
+    margin: 0px 6px;
+}
+
+.social-icons:hover {
+    color: #6B1E23;
+    background-color: white;
+    transition: all ease-in-out 300ms;
+}
