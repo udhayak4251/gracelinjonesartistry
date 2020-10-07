@@ -61,3 +61,18 @@
     background-color: #c48d91;
     cursor: pointer;
 }
+
+
+@media screen and (max-width: 930px) {
+    .contact-form-text-new-line {
+        width: 200px;
+    }
+
+    .contact-form-text {
+        width: 200px;
+    }
+
+    .contact-container {
+        text-align: center;
+    }
+}
