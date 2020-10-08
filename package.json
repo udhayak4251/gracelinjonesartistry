@@ -26,6 +26,7 @@
     "react-scripts": "3.4.3",
     "typescript": "^3.7.5"
   },
+  
   "scripts": {
     "start-backend": "node src/components/mailservice/mailservice.js",
     "start": "react-scripts start",
