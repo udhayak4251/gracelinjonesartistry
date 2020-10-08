@@ -1,5 +1,22 @@
 .about-profile-image {
     flex-grow: 1;
-    width: 400px;
+    width: 500px;
     margin: 20px;
+}
+
+@media screen and (max-width: 930px) {
+.about-profile-image {
+    width: 100%;
+    height: auto;
+}
+.home-content {
+    margin: 0px;
+}
+.about-profile-image {
+    margin: 0px;
+}
+
+.contact-form-text-new-line {
+    width: 300px;
+}
 }

@@ -21,7 +21,7 @@
 
 .home-profile-image {
     flex-grow: 1;
-    width: 400px;
+    width: 500px;
     -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
     filter: grayscale(100%);
 }
@@ -59,7 +59,11 @@
     }
     .home-content-tile {
     margin-left: 20px;
-
 }
+.home-profile-image {
+    width: 100%;
+    height: auto;
+}
+
 
 }
